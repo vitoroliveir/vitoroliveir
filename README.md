@@ -4,12 +4,16 @@
 - 🔭 I’m currently looking for a job in the development field
 - 🌱 I’m currently learning java
 
+</br>
+</br>
+
 <div align="center">
   <a href="https://github.com/vitoroliveir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoroliveir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliveir&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
+ </br>
+ </br>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +25,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
   <img align="center" alt="Rafa-Python" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
-  
+
+ </br>
+ 
   ##
   
 <div> 
